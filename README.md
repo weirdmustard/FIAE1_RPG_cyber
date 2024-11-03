@@ -1,3 +1,8 @@
+Hier entsteht ein neues RPG auf Basis des untenstehenden.
+
+
+Original:
+
 Über das Projekt
 
 **Dungeons & Legends!**
@@ -11,18 +16,13 @@ Mehr Informationen & Dokumentation findest du in unserem umfangreichen Git Wiki.
 **Entwicklerteam:**
 
 * L2P Academy (Leitung)
-
 * antcedric91
 * chrisbacju
 * christian-gassmann
-* LvDenu
 * MaximilianGietz
-* Mlieh
-* nicollenc
 * Pandaoria
 * Rakinos89
 * rclemenz
-* ValoLuko
 * Velsabor
 * weirdmustard
 
